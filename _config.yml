@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ying Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Time files"
+  location         : "Harbin"
+  employer         : "Harbin Institute of Technology University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lymath@hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
